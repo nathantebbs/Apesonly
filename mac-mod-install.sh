@@ -1,2 +1,2 @@
 #!/bin/bash
-cp mods $HOME/Application Support/Minecraft/mods
+cp mods $HOME/Library/Application Support/Minecraft/mods
